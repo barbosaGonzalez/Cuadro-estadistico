@@ -1,0 +1,88 @@
+c:\users\ezakto\documents\visual studio 2012\Projects\Est\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Ezakto\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+F:\c gatito\Est\Estadistica\bin\Debug\Estadistica.exe.config
+F:\c gatito\Est\Estadistica\obj\Debug\Estadistica.exe
+F:\c gatito\Est\Estadistica\obj\Debug\Estadistica.pdb
+F:\c gatito\Est\Estadistica\bin\Debug\Estadistica.exe
+F:\c gatito\Est\Estadistica\bin\Debug\Estadistica.pdb
+F:\c gatito\Est\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+F:\c gatito\Est\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+F:\c gatito\Est\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+F:\c gatito\Est\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Torby\Desktop\Est\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Torby\Desktop\Est\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Torby\Desktop\Est\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Torby\Desktop\Est\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Torby\Desktop\Est\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Torby\Desktop\Est\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Desktop\Est\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Torby\Desktop\Est\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Torby\Desktop\Est\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Est - copia\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmSecundario.resources
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Torby\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmSecundario.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmSecundario.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe.config
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.exe
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.pdb
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.exe
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\bin\Debug\Estadistica.pdb
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmSecundario.resources
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.frmPrincipal.resources
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\Universidad de Colima\Facultad de Telematica\Materias\Programación visual (C#)\3er Semestre\Programa de Estadisticas FULL\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
